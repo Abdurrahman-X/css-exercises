@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#special {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#rare {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
